@@ -1,2 +1,2 @@
-# Hola-mundo
-Este repositorio o directorio es para aprender el flujo de trabajo de GitHub
+# Hola-mundo ramita
+Me encuentro en esta parte del archivo, practicando la parte de GitHub y la ramas. Nunca es tarde para aprender.
